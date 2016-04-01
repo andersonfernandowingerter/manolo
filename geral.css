@@ -124,10 +124,7 @@ p.pular a {
 	padding-right:10px;
 	color:#fff;
 	}
-p.pular a:hover {
-	background:#fff;
-	color:#333;
-	}
+
 /* Estiliza o link corrente na navegacao horizontal */
 body#index ul#nav li a#in, body#quemsomos ul#nav li a#qs, 
 body#produtos ul#nav li a#pr, body#contato ul#nav li a#co,
